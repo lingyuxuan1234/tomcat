@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("hello php");
         System.out.println("hello python");
         System.out.println("hello c++");
+        System.out.println("hotFix test");
     }
 }
