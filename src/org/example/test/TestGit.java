@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("hello java");
         System.out.println("hello php");
         System.out.println("hello python");
+        System.out.println("hotFix test");
     }
 }
