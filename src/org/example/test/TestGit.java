@@ -9,5 +9,6 @@ public class TestGit {
         System.out.println("hello c++");
         System.out.println("hotFix test");
         System.out.println("hello google");
+        System.out.println("pull test");
     }
 }
