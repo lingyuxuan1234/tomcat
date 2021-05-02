@@ -8,5 +8,6 @@ public class TestGit {
         System.out.println("hello python");
         System.out.println("hello c++");
         System.out.println("hotFix test");
+        System.out.println("hello google");
     }
 }
